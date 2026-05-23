@@ -1,2 +1,1 @@
-# Mashup_Studio
-Mashup Studio
+Data powered by [GetSongBPM](https://getsongbpm.com)
